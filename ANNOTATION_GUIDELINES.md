@@ -1,5 +1,14 @@
 # Annotation Guidelines for Docker Commit Messages
 
+## Access the Dataset for Annotation
+
+You can access the dataset and label the commit messages directly in the Google Sheet using the following link:
+
+https://docs.google.com/spreadsheets/d/1u2vCOOEBLbITA2Cf05OHHNz9fUsZTq9DwsDg6jWE92g/edit?usp=sharing
+
+Please follow the steps outlined in this document for labeling each commit message.
+
+
 ## Overview
 Your task is to classify each commit message into one or more of the following categories:
 - **Bug Fix**
