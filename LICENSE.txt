@@ -1,0 +1,17 @@
+# Licensing Information for Filtered Docker Commit Messages Dataset
+
+This dataset was derived from the "BigCode CommitPack" dataset, which includes samples from code repositories with permissive licenses. Each sample in the dataset includes a "license" field that specifies the license under which the original code was released.
+
+## Original Dataset License:
+The original dataset and its samples are governed by the licenses provided by the respective repositories from which the data was collected. Please refer to the "license" field in each entry of this dataset for more information.
+
+## Redistribution and Use:
+You may use, modify, and distribute this filtered dataset, provided you comply with the terms and conditions specified in the licenses associated with each sample. You must ensure that any use of the dataset complies with the licenses of the original repositories.
+
+## Attribution:
+If you use this filtered dataset, please attribute both the original BigCode CommitPack dataset and the respective repositories from which the data was collected, as specified in the "license" field of each sample.
+
+---
+
+For more information, visit the original dataset page: https://huggingface.co/datasets/bigcode/commitpack
+
