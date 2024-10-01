@@ -34,4 +34,4 @@ The dataset was filtered down to 5,000 instances to ensure efficient manual labe
 - If the annotator needs to review the code before and after the commit, labeling may take around **1-2 minutes** per item.
 
 ## License
-This dataset is shared under the **MIT License**, allowing for reuse, modification, and distribution, provided that proper attribution is given.
+This dataset is provided under the terms outlined in the included LICENSE.txt file.
