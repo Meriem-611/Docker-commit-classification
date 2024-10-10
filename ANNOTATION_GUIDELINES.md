@@ -19,7 +19,7 @@ Your task is to classify each commit message into one or more of the following c
 
 In some cases, a commit might fit into more than one category. You are allowed to assign multiple labels if necessary. Additionally, if the commit message alone doesn't provide enough information, you will be asked to inspect the code changes before and after the commit to finalize the labeling.
 
-For reference, I have labeled the first 20 commit examples. These are available as a guide to help you understand how to apply the labels.
+For reference, I have labeled the first 60 commit examples. These are available as a guide to help you understand how to apply the labels.
 
 ---
 
